@@ -2,8 +2,8 @@
 
 <div align="center">
 
-## 👋 Hey, I'm Sadman Sakib  
-💻 Building things that sometimes work.  
+## 👋 Hey, I'm Sadman Sakib 
+I Build things that sometimes work.  
 
 </div>
 
