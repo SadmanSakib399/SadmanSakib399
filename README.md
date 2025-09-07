@@ -17,11 +17,9 @@
 - **Programming:** HTML, CSS, Bootstrap (if that counts 😉), Python, GDScript  
 - **Human:** Bangla (native), English (fluent)  
 
-### 📬 Reach Me At  
-📧 [sadmansakib7071@gmail.com](mailto:sadmansakib7071@gmail.com)  
+### 📬 Reach Me At - [sadmansakib7071@gmail.com](mailto:sadmansakib7071@gmail.com)  
 
-### 🤔 Fun Fact  
-Still single.  
+### 🤔 Fun Fact: Still single.  
 
 ---
 
