@@ -1,9 +1,11 @@
 # 💫 About Me
 
+<div align="center">
+
 ## 👋 Hey, I'm Sadman Sakib  
 💻 Building things that sometimes work.  
 
----
+</div>
 
 ### 🌱 Currently Learning  
 - Python  
@@ -18,6 +20,7 @@
 
 ### 🤔 Fun Fact  
 Still single.  
+
 
 
 ## 🌐 Socials:
