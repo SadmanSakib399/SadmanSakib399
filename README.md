@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### 🌱 Currently Learning  
 - Python  
 - Godot  
