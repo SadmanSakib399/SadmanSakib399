@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey, I'm Sadman Sakib<br><br>💻 Building things that sometimes work.<br><br>* 🌱 **Currently learning:** Python and Godot<br>* 🛠️ **Skills:**<br><br>  * Programming: HTML, CSS, Bootstrap (if that counts 😉), Python, GDScript<br>  * Human: Bangla (native), English (fluent)<br>* 📬 **Reach me at:** **[sadmansakib7071@gmail.com](mailto:sadmansakib7071@gmail.com)**<br>* 🤔 **Fun fact:** Still single.<br>
+## 👋 Hey, I'm Sadman Sakib<br><br>💻 Building things that sometimes work.<br><br>* 🌱 **Currently learning:** Python and Godot<br>* 🛠️ **Skills:**<br><br>  * Programming: HTML, CSS, Bootstrap (if that counts 😉), Python, GDScript<br>  * Human: Bangla (native), English (fluent)<br><br>* 📬 **Reach me at:** **[sadmansakib7071@gmail.com](mailto:sadmansakib7071@gmail.com)**<br><br>* 🤔 **Fun fact:** Still single.<br><br>
 
 
 ## 🌐 Socials:
